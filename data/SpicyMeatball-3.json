@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "PriceFeed doesn't check min/max price boundaries",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/3"
+}
