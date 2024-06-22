@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "SpicyMeatball",
+  "risk": "3",
+  "title": "Incorrect validation in validateVariablePoolHasEnoughLiquidity will cause DoS of the protocol's major functions",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/7"
+}
