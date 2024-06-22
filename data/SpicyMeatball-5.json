@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "The debtor can be liquidated if his loan due date has come while the protocol is in the paused state",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/5"
+}
