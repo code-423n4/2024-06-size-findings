@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "said",
+  "risk": "3",
+  "title": "Overestimating the credit amount when `buyCreditMarket` is executed due to not properly deducting the swap fee",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/14"
+}
