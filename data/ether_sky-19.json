@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "ether_sky",
+  "risk": "2",
+  "title": "When the borrowAToken cap is reached, users may not always be able to repay their debt in some cases due to precision errors",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/19"
+}
