@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "Sentryx",
+  "risk": "3",
+  "title": "Borrower will not be charged fragmentation fee when creating new credit position when compensating a credit partially",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/28"
+}
