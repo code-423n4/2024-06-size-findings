@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "Sentryx",
+  "risk": "3",
+  "title": "Lender can be forced out of existing positions unwillingly if they have an open SELL LMT order",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/33"
+}
