@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "VAD37",
+  "risk": "2",
+  "title": "User can bypass `RiskConfig.borrowATokenCap` limit up to 10x times using multicall. Leading to temporary DOS attack",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/34"
+}
