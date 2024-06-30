@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "VAD37",
+  "risk": "2",
+  "title": "Use of `isMulticall` is unsafe for future contract upgrades without reentrancy protection",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/37"
+}
