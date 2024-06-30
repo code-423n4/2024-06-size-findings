@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "VAD37",
+  "risk": "2",
+  "title": "Repay do not check debt position already moved to another borrower or belong to `msg.sender`",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/42"
+}
