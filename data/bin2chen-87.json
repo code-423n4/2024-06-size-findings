@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "compensate() may increase the risk of lender",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/87"
+}
