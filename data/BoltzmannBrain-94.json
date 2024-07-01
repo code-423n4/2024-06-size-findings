@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "BoltzmannBrain",
+  "risk": "2",
+  "title": "Validations aren't sufficient to prevent reorg issues",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/94"
+}
