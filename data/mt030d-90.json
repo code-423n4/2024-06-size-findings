@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "mt030d",
+  "risk": "2",
+  "title": "The `szaUSDC` token and `USDC` token do not have a strict 1:1 conversion ratio",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/90"
+}
