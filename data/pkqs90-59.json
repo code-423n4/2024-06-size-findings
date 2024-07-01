@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "Malicious users can perform a grief attack by repaying a loan to themselves using multicall to deposit tokens, thereby exceeding the `borrowATokenCap`.",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/59"
+}
