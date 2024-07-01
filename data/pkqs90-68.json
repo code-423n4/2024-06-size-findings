@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "NonTransferrableScaledToken is not ERC20 compliant - it does not correctly fire the `Transfer` event.",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/68"
+}
