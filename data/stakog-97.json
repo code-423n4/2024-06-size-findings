@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "stakog",
+  "risk": "3",
+  "title": "Wrong comparison of token values causes liquidator profit to be negligible",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/97"
+}
