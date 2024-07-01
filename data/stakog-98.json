@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "stakog",
+  "risk": "3",
+  "title": "Miscalculation of remaining collateral, protocol cut when liquidating overdue loans is too high",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/98"
+}
