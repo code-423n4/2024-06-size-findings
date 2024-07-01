@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "When users buy existing credit via `BuyCreditMarket` and has `exactAmountIn == true`, it is nearly impossible for users to avoid paying fragmentation fee.",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/64"
+}
