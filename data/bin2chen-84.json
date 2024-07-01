@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "borrowAToken and aToken rounds direction are not the same, which can cause multiple problems.",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/84"
+}
