@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "When users sell existing credit via `SellCreditMarket` and has `exactAmountIn == false`, it is nearly impossible for users to avoid paying fragmentation fee.",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/65"
+}
