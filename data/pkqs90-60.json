@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "If a user has placed both a buy limit order and a sell limit order, and the sell limit order has a lower APR, the user will be vulnerable to arbitrage.",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/60"
+}
