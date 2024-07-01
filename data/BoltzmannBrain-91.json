@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "BoltzmannBrain",
+  "risk": "2",
+  "title": "`multicall()` doesn't correctly enforce `borrowATokenCap`",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/91"
+}
