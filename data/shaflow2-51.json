@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "When the system pauses, collateralRatio's normal borrower cannot repay the credit",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/51"
+}
