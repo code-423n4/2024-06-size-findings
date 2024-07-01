@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "In `BuyCreditMarket.sol` and `SellCreditMarket.sol`, this constraint for minimum credit is higher than it should be.",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/57"
+}
