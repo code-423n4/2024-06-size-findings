@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "ether_sky",
+  "risk": "2",
+  "title": "Users cannot eliminate the liquidation risk when the CR falls below the liquidation CR by repaying partially",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/78"
+}
