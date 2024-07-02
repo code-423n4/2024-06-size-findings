@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "0xRobocop",
+  "risk": "2",
+  "title": "Incorrect assumption about params.amount can cause DoS for specific executions",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/137"
+}
