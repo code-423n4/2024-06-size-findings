@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "Unfair calculation logic of protocol profit during liquidation",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/151"
+}
