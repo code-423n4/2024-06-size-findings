@@ -109,9 +109,14 @@ instead of using the formula provided in the `getCreditPositionProRataAssignedCo
 ```
 collateral * credit / debt
 ```
-and also the else statement is unreachable cause we can only access this function when the loan is active or overdue and in both cases this means that the future value is not 0
+and also the else statement is unreachable cause we can only access this function when the loan is active or overdue and in both cases, this means that the future value is not 0
 
 
+
+# [L-5] useless check in the `isCreditPositionSelfLiquidatable` function
+
+## Description
+the `isUserUnderwater` function in the `isCreditPositionSelfLiquidatable` is the useless cause in the validation of the self-liquidate function, it will check that the collateral ratio should be under 1 otherwise revert. so checking that the collateral ratio is below 1.3 is useless and the `isUserUnderwater` should be removed
 
 
 # [C-1] The Owner of the contract can transfer any debt token of any account
