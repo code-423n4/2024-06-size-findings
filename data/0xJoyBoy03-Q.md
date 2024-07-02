@@ -102,13 +102,24 @@ according to the natspec, the tenor and the borrower data is ignored when the cr
  use the correct tenor and borrower of the existing creditPositionId for emission
 
 
+# [L-4] long and expensive calculation on the `getCreditPositionProRataAssignedCollateral` function
 
-# [C-1] Owner of the contract can transfer any debt token of any account
+## Description
+instead of using the formula provided in the `getCreditPositionProRataAssignedCollateral` function, you can use this formula to get the return value:
+```
+collateral * credit / debt
+```
+and also the else statement is unreachable cause we can only access this function when the loan is active or overdue and in both cases this means that the future value is not 0
+
+
+
+
+# [C-1] The Owner of the contract can transfer any debt token of any account
 
 ## Description
 in the `NonTransferrableToken::transferFrom` function:
 ```js
-// @audit-centralization-risk: owner can transfer the debt tokens of any account
+// @audit-centralization-risk: The owner can transfer the debt tokens of any account
     function transferFrom(address from, address to, uint256 value) public virtual override onlyOwner returns (bool) {
         _transfer(from, to, value);
         return true;
@@ -117,7 +128,7 @@ in the `NonTransferrableToken::transferFrom` function:
 according to the doc "[Debt tokens are non-transferable](https://docs.size.credit/technical-docs/contracts/2.1-deposit-tokens-and-global-trackers#id-2.2-global-trackers)" but the owner of the contract can transfer any debt token of any account in any amount which is significant and is potential risk for users involved with the protocol
 
 ## Recommended Mitigation Steps
-do a check for `szDebt` token to revert:
+do a check for the `szDebt` token to revert:
 ```git
     function transferFrom(address from, address to, uint256 value) public virtual override onlyOwner returns (bool) {
 +        if (name() == "szDebt")     revert;
