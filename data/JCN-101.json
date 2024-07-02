@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "JCN",
+  "risk": "2",
+  "title": "Bad actors can grief users by creating useless loans on their behalf via `Size::compensate`",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/101"
+}
