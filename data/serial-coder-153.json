@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "serial-coder",
+  "risk": "2",
+  "title": "A rogue borrower can split the lender's credit position into multiple positions without paying fragmentation fees",
+  "issueId": 153,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/153"
+}
