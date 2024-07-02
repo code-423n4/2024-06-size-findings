@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "0xJoyBoy03",
+  "risk": "3",
+  "title": "Exploit in `liquidateWithReplacement` allows bots to force lenders into repaying their own loans, causing financial loss",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/116"
+}
