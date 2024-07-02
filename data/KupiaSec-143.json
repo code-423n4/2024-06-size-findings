@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "Inconsistent liquidity validation for a variable pool",
+  "issueId": 143,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/143"
+}
