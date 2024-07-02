@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "BenRai",
+  "risk": "2",
+  "title": "By only taking into account the liquidatorProfit when calling liquidateWithReplacement() the caller might miss out on profitable liqudations",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/106"
+}
