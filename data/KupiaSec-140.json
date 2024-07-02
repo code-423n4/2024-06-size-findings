@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "`Liquidate.executeLiquidate()` calculates `collateralRemainderCap` incorrectly.",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/140"
+}
