@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "Kalogerone",
+  "risk": "2",
+  "title": "Swap fees calculation is inconsistent, producing different fees for essentially the same loans",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/128"
+}
