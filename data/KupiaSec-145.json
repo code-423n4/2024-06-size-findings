@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "While buying/selling credit markets, it might revert when it should work due to the `minimumCreditBorrowAToken` validation.",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/145"
+}
