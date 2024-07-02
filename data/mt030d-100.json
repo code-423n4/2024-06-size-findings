@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "mt030d",
+  "risk": "3",
+  "title": "Repaying an underwater debt is dangerous, as the borrower could lose the repayment cash while still being liquidated if a `liquidateWithReplacement()` is executed before the `repay()`",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/100"
+}
