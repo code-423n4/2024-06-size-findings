@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "0xJoyBoy03",
+  "risk": "2",
+  "title": "Loss of fees for the `feeRecipient` in case of selling credit market",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/118"
+}
