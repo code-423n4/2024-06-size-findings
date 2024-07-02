@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "`LiquidateWithReplacement.executeLiquidateWithReplacement()` should charge a swap fee from a new borrower.",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/141"
+}
