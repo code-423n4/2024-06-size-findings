@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "ilchovski",
+  "risk": "3",
+  "title": "Protocol is not usable due to incorrect aaveV3 liquidity check",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/114"
+}
