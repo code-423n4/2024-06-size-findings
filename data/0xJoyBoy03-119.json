@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "0xJoyBoy03",
+  "risk": "2",
+  "title": "Improper Validation in `BuyCreditMarket::validateBuyCreditMarket` Function Causes Incorrect Reverts When `params.exactAmountIn` is True",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/119"
+}
