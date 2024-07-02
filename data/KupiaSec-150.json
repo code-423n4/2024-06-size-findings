@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "`executeCompensate()` doesn't charge the `fragmentationFee` for `RESERVED_ID`.",
+  "issueId": 150,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/150"
+}
