@@ -1,0 +1,8 @@
+{
+  "contest": 389,
+  "handle": "golu",
+  "risk": "2",
+  "title": "ChainlinkOracle will return the wrong price for asset if underlying aggregator hits minAnswer",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/136"
+}
