@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Bob",
+  "risk": "2",
+  "title": "Overdue fees potentially penalize collateralization",
+  "issueId": 178,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/178",
+  "originalIssueId": 659,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/659"
+}
