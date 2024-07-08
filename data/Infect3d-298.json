@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Infect3d",
+  "risk": "2",
+  "title": "Partial repayment with debt/credit creation (compensation) will not charge fragmentation fee, allowing malicious actors to fragment a credit many times to cause high cost to keeper bots",
+  "issueId": 298,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/298",
+  "originalIssueId": 485,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/485"
+}
