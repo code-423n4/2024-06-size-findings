@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "almurhasan",
+  "risk": "2",
+  "title": "There is a missing check when compensating of a credit position.",
+  "issueId": 377,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/377",
+  "originalIssueId": 228,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/228"
+}
