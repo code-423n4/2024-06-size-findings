@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "jsmi",
+  "risk": "2",
+  "title": "During liquidation, the higher the collateral ratio is, the more the loss of borrower is. ",
+  "issueId": 369,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/369",
+  "originalIssueId": 262,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/262"
+}
