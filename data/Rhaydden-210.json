@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Excess Collateral Not Returned to Borrower in High-Collateral Liquidation Scenarios",
+  "issueId": 210,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/210",
+  "originalIssueId": 302,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/302"
+}
