@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "Current liquidation mechanism can cause borrowers with multiple debt positions to lose collateral more than they should",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/201",
+  "originalIssueId": 358,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/358"
+}
