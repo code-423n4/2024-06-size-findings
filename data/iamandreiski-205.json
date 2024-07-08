@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "iamandreiski",
+  "risk": "2",
+  "title": "During profitable liquidations, under certain conditions the fee for the protocol can be 0",
+  "issueId": 205,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/205",
+  "originalIssueId": 336,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/336"
+}
