@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xmuxyz",
+  "risk": "2",
+  "title": "A borrower's debt position can be forced to be liquidated - even though the borrower was willing to repay",
+  "issueId": 329,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/329",
+  "originalIssueId": 382,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/382"
+}
