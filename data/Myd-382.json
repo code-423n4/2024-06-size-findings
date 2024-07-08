@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Myd",
+  "risk": "2",
+  "title": "Inconsistent Cash Amount Out Calculation in Existing Positions.",
+  "issueId": 382,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/382",
+  "originalIssueId": 211,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/211"
+}
