@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "dhank",
+  "risk": "3",
+  "title": "Liquidator Reward is calculated wrong due to incorrect comparison- Liquidation.sol",
+  "issueId": 310,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/310",
+  "originalIssueId": 451,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/451"
+}
