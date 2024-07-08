@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "hyh",
+  "risk": "3",
+  "title": "AccountingLibrary's `getCreditAmountIn()` overstates `creditAmountIn` for the given `cashAmountOut`",
+  "issueId": 245,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/245",
+  "originalIssueId": 623,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/623"
+}
