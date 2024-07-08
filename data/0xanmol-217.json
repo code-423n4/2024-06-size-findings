@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xanmol",
+  "risk": "2",
+  "title": "Borrower should always get liquidated from the smaller debt position. ",
+  "issueId": 217,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/217",
+  "originalIssueId": 201,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/201"
+}
