@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "ayden",
+  "risk": "3",
+  "title": "The method of calculate liquidator reward is incorrect",
+  "issueId": 384,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/384",
+  "originalIssueId": 203,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/203"
+}
