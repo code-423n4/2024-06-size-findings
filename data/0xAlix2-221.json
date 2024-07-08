@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "Protocol's liqiudation profit is fully relying on the loan's collateral remainder, allowing users to lose less collateral on overdue liquidation",
+  "issueId": 221,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/221",
+  "originalIssueId": 137,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/137"
+}
