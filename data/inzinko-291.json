@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "inzinko",
+  "risk": "3",
+  "title": "Liquidators can steal borrowers collateral tokens due to wrong assumption.",
+  "issueId": 291,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/291",
+  "originalIssueId": 520,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/520"
+}
