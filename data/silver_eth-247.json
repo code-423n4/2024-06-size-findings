@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "silver_eth",
+  "risk": "2",
+  "title": "profit margin of liquidating small positions might not be enough to cover gas costs ",
+  "issueId": 247,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/247",
+  "originalIssueId": 612,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/612"
+}
