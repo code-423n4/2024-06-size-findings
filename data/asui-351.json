@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "asui",
+  "risk": "2",
+  "title": "Unexpected reverts or no incentives during liquidation due to wrong liquidatorReward calculation.",
+  "issueId": 351,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/351",
+  "originalIssueId": 319,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/319"
+}
