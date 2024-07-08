@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "mt030d",
+  "risk": "2",
+  "title": "The `validateBorrowATokenCap()` restriction in `deposit()` can be easily bypassed by wrapping it in a `multicall()` call, giving certain users an unfair advantage",
+  "issueId": 328,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/328",
+  "originalIssueId": 385,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/385"
+}
