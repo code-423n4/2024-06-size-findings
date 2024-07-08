@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "3n0ch",
+  "risk": "3",
+  "title": "Wrong calculation of `fees` in `SellCreditMarket` when `params.exactAmountIn == false` and `params.creditPositionId != RESERVED_ID`",
+  "issueId": 312,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/312",
+  "originalIssueId": 445,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/445"
+}
