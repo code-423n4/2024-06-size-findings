@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "trachev",
+  "risk": "2",
+  "title": "Incorrect validation in Size.sol causes unexpected reverts",
+  "issueId": 264,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/264",
+  "originalIssueId": 578,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/578"
+}
