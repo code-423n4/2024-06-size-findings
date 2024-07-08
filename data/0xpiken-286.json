@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "The `borrowATokenCap` limitation can be bypassed by depositing `USDC` through `Size#multicall()`",
+  "issueId": 286,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/286",
+  "originalIssueId": 542,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/542"
+}
