@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "adeolu",
+  "risk": "2",
+  "title": "still possible to take loans amounts below the riskConfig.minimumCreditBorrowAToken",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/192",
+  "originalIssueId": 440,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/440"
+}
