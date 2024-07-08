@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "supersizer0x",
+  "risk": "3",
+  "title": " `executeLiquidate()` liquidaterReward is totaly understemited because the computation computes `futureValue` as 18 decimals",
+  "issueId": 386,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/386",
+  "originalIssueId": 191,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/191"
+}
