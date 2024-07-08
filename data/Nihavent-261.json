@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Nihavent",
+  "risk": "3",
+  "title": "`liquidatorReward` calculated incorrectly resulting in liquidator receiving dust fees",
+  "issueId": 261,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/261",
+  "originalIssueId": 584,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/584"
+}
