@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "bbl4de",
+  "risk": "2",
+  "title": "Insufficient validation of `maxDueDate` presents a risk for lenders allowing unintended 0% APR loans ",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/211",
+  "originalIssueId": 290,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/290"
+}
