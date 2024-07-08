@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Shield",
+  "risk": "3",
+  "title": "When calculating `creditAmountIn` and `creditAmountOut` the `interest rate` is applied on top of the `fragmentationFee`",
+  "issueId": 242,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/242",
+  "originalIssueId": 664,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/664"
+}
