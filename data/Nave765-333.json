@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Nave765",
+  "risk": "3",
+  "title": "The Liquidate::liquidatorProfitCollateralToken function currently over-rewards liquidators due to combining collateral and borrow tokens, resulting in consistently high liquidator reward.",
+  "issueId": 333,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/333",
+  "originalIssueId": 365,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/365"
+}
