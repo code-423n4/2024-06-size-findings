@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "samuraii77",
+  "risk": "3",
+  "title": "Whales might not be able to get liquidated due to no way to partially liquidate",
+  "issueId": 392,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/392",
+  "originalIssueId": 161,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/161"
+}
