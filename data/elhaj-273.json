@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "elhaj",
+  "risk": "2",
+  "title": "Incorrect Validation of `Amount` in `sellCreditMarket` and `buyCreditMarket` Functions Causes A Revert On Valid Inputs",
+  "issueId": 273,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/273",
+  "originalIssueId": 562,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/562"
+}
