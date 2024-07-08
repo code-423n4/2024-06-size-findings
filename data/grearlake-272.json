@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "grearlake",
+  "risk": "2",
+  "title": "Borrower are not able to repay debt when protocol is paused.",
+  "issueId": 272,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/272",
+  "originalIssueId": 564,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/564"
+}
