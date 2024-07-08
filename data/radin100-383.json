@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "radin100",
+  "risk": "2",
+  "title": "Bad amount validation could lead to DoS, when `buyCreditMarket` called",
+  "issueId": 383,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/383",
+  "originalIssueId": 208,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/208"
+}
