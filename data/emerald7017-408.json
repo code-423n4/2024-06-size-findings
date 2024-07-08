@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "emerald7017",
+  "risk": "2",
+  "title": "Double-Counting of Fragmentation Fee in getCashAmountIn Function Leads to Incorrect Calculations",
+  "issueId": 408,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/408",
+  "originalIssueId": 58,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/58"
+}
