@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "mt030d",
+  "risk": "3",
+  "title": "Incorrect fee calculation in `AccountingLibrary.getCreditAmountIn` causing the protocol to receive a lower swap fee",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/213",
+  "originalIssueId": 232,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/232"
+}
