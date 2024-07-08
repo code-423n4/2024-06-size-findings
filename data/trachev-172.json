@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "trachev",
+  "risk": "2",
+  "title": "`BuyCreditMarket.executeBuyCreditMarket` limits the maximum cash amount input more than is expected, causing calls that should be valid to fail",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/172",
+  "originalIssueId": 713,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/713"
+}
