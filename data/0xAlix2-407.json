@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "Invalid comparison when computing the liquidator's reward in `executeLiquidate`",
+  "issueId": 407,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/407",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/65"
+}
