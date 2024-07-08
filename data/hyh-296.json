@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "hyh",
+  "risk": "2",
+  "title": "Valid market lending and borrowing can be denied as `exactAmountIn` value is ignored in controls",
+  "issueId": 296,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/296",
+  "originalIssueId": 504,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/504"
+}
