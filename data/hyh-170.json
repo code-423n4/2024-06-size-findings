@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "hyh",
+  "risk": "2",
+  "title": "`executeBuyCreditMarket()` returns incorrect value for liquidity availability control ",
+  "issueId": 170,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/170",
+  "originalIssueId": 730,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/730"
+}
