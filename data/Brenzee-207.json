@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Brenzee",
+  "risk": "2",
+  "title": "Incorrect liquidator reward calculation results in significant loss of reward",
+  "issueId": 207,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/207",
+  "originalIssueId": 323,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/323"
+}
