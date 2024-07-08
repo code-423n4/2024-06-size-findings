@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "hyh",
+  "risk": "3",
+  "title": "Liquidations can't be profitable due to wrong decimals used in `executeLiquidate()`",
+  "issueId": 239,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/239",
+  "originalIssueId": 688,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/688"
+}
