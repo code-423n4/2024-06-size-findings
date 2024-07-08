@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "3n0ch",
+  "risk": "3",
+  "title": "Lack of validation for `cashAmountIn` in `BuyCreditMarket` when `exactAmountIn == false` allows creating a loan with only `1 AToken` fee",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/222",
+  "originalIssueId": 125,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/125"
+}
