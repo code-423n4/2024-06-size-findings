@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xRstStn",
+  "risk": "2",
+  "title": "User can split a credit into multiple credits without paying fragmentation fee",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/230",
+  "originalIssueId": 720,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/720"
+}
