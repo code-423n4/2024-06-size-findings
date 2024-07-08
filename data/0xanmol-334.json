@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xanmol",
+  "risk": "2",
+  "title": "Incorrect Minimum credit Check in `validateBuyCreditMarket`",
+  "issueId": 334,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/334",
+  "originalIssueId": 363,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/363"
+}
