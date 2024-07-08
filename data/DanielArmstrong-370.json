@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "DanielArmstrong",
+  "risk": "2",
+  "title": "Legitimate call with small cash out can be reverted.",
+  "issueId": 370,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/370",
+  "originalIssueId": 258,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/258"
+}
