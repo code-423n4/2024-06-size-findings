@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "3n0ch",
+  "risk": "2",
+  "title": "Users can deposit USDC above the AToken cap",
+  "issueId": 399,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/399",
+  "originalIssueId": 113,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/113"
+}
