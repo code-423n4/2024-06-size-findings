@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Tychai0s",
+  "risk": "2",
+  "title": "Incorrect Liquidator Reward Calculation Due to Mismatched Token Denominations",
+  "issueId": 235,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/235",
+  "originalIssueId": 704,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/704"
+}
