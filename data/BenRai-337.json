@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "BenRai",
+  "risk": "2",
+  "title": "When a creditPosition is transferred to a new lender when calling `compensate` it is not ensured that the creditPosition is forSale",
+  "issueId": 337,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/337",
+  "originalIssueId": 351,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/351"
+}
