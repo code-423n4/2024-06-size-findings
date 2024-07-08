@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xRobocop",
+  "risk": "2",
+  "title": "Validation of borrow increase against debt decrease will not work as intended",
+  "issueId": 343,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/343",
+  "originalIssueId": 334,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/334"
+}
