@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xarno",
+  "risk": "3",
+  "title": "Incorrect Handling of Decimal Places in Liquidation Reward Calculation",
+  "issueId": 293,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/293",
+  "originalIssueId": 514,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/514"
+}
