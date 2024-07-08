@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xStalin",
+  "risk": "2",
+  "title": "Borrowers can fragmentate credit without paying the fragmentationFee when partially repaying a DebtPosition via Compensate",
+  "issueId": 342,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/342",
+  "originalIssueId": 340,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/340"
+}
