@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "3n0ch",
+  "risk": "3",
+  "title": "Wrong calculation of `liquidatorReward` in `executeLiquidate`",
+  "issueId": 400,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/400",
+  "originalIssueId": 111,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/111"
+}
