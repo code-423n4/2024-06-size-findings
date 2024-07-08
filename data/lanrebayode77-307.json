@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "lanrebayode77",
+  "risk": "2",
+  "title": "Fragmentation Fee not charged when a user incompletely compensate a credit position",
+  "issueId": 307,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/307",
+  "originalIssueId": 466,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/466"
+}
