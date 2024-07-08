@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "alix40",
+  "risk": "3",
+  "title": "Users could abuse `compensate()` to fragment creditPositions without paying any fragementation fee",
+  "issueId": 350,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/350",
+  "originalIssueId": 320,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/320"
+}
