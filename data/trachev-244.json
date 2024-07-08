@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "trachev",
+  "risk": "3",
+  "title": "`validateVariablePoolHasEnoughLiquidity` will always fail causing complete DOS to the protocol",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/244",
+  "originalIssueId": 642,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/642"
+}
