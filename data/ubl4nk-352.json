@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "ubl4nk",
+  "risk": "2",
+  "title": "fragmentationFee in compensate is not implemented correctly",
+  "issueId": 352,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/352",
+  "originalIssueId": 318,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/318"
+}
