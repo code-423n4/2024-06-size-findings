@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xStalin",
+  "risk": "3",
+  "title": "Liquidator's reward are wrongly computed because they are not converted to its value worth in collateral.",
+  "issueId": 339,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/339",
+  "originalIssueId": 347,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/347"
+}
