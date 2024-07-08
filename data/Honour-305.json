@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Honour",
+  "risk": "2",
+  "title": "Protocol Fee isn't collected in liquidate with replacement",
+  "issueId": 305,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/305",
+  "originalIssueId": 469,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/469"
+}
