@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Brenzee",
+  "risk": "2",
+  "title": "Incorrect swap fee calculation in SellCreditMarket leads to protocol receiving less than they should",
+  "issueId": 206,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/206",
+  "originalIssueId": 327,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/327"
+}
