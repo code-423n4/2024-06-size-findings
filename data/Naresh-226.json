@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Naresh",
+  "risk": "2",
+  "title": "Borrowers can partially pay back and leave a small borrowing amount in their position, leading to the protocol's bad debt",
+  "issueId": 226,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/226",
+  "originalIssueId": 38,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/38"
+}
