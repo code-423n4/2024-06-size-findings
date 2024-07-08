@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xStalin",
+  "risk": "2",
+  "title": "SellingCredit can incorrectly reverts because `params.amount` is incorrectly threated as if it would represent `credit`, when in reality could represent `cash` and the credit been sold would be grather than minimumCreditBorrowAToken",
+  "issueId": 341,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/341",
+  "originalIssueId": 342,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/342"
+}
