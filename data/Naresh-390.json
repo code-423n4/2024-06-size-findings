@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Naresh",
+  "risk": "2",
+  "title": "Debt repayment and collateral loss risk if Size contract is paused",
+  "issueId": 390,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/390",
+  "originalIssueId": 167,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/167"
+}
