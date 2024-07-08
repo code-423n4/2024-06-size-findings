@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "NexusAudits",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/159",
+  "originalIssueId": 660,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/660"
+}
