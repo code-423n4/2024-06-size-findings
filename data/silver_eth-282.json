@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "silver_eth",
+  "risk": "2",
+  "title": "AccountingLibrary::getCreditAmountIn ensures that borrowers end up paying more for fragmentation than specified in fee config ",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/282",
+  "originalIssueId": 550,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/550"
+}
