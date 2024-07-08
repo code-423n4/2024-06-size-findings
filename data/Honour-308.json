@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Honour",
+  "risk": "2",
+  "title": "Fragmentation Fee is not properly enforced on all credit splits during compensation",
+  "issueId": 308,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/308",
+  "originalIssueId": 456,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/456"
+}
