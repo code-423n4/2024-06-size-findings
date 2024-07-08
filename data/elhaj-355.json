@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "elhaj",
+  "risk": "2",
+  "title": " Users Can Bypass `borrowATokenCap` Check Through `multicall` Due to Incorrect Validation",
+  "issueId": 355,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/355",
+  "originalIssueId": 309,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/309"
+}
