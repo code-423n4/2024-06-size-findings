@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "alix40",
+  "risk": "2",
+  "title": "Validation logic in `validateVariablePoolHasEnoughLiquidity()` is inaccurate with the introduction of virtual Accounting in AAVE3.1",
+  "issueId": 368,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/368",
+  "originalIssueId": 265,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/265"
+}
