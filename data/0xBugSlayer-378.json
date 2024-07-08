@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xBugSlayer",
+  "risk": "3",
+  "title": "Liquidators are unfairly robbed of their liquidation reward",
+  "issueId": 378,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/378",
+  "originalIssueId": 222,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/222"
+}
