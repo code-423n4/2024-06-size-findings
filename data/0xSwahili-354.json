@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xSwahili",
+  "risk": "2",
+  "title": "Full liquidations of debt positions risks putting the protocol in bad debt",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/354",
+  "originalIssueId": 315,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/315"
+}
