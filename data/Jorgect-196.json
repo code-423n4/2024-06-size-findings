@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "Jorgect",
+  "risk": "2",
+  "title": "Lender always can DoS a Lender trying to exit credit early.",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/196",
+  "originalIssueId": 375,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/375"
+}
