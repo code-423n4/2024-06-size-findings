@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "NexusAudits",
+  "risk": "3",
+  "title": "Incorrect Fee Calculation in Credit Fractionalization Scenario",
+  "issueId": 241,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/241",
+  "originalIssueId": 665,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/665"
+}
