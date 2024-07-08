@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "inzinko",
+  "risk": "2",
+  "title": "Incorrect cashAmount check for variable pool ability to fulfill withdrawal",
+  "issueId": 318,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/318",
+  "originalIssueId": 414,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/414"
+}
