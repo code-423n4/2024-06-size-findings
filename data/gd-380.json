@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "gd",
+  "risk": "3",
+  "title": "Errors in the calculation of the liquidator's reward result in the protocol not being able to correctly allocate the liquidation reward",
+  "issueId": 380,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/380",
+  "originalIssueId": 213,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/213"
+}
