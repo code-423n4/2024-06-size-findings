@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "alix40",
+  "risk": "3",
+  "title": "Due to wrong math, liquidation incentive is always a dust amount, exposing protocol to risk of insolvancy",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/233",
+  "originalIssueId": 711,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/711"
+}
