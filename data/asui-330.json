@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "asui",
+  "risk": "3",
+  "title": "Protocol fails to take fragmentation fee during credit fractionalization for every compensate call with params.creditPositionToCompensateId == RESERVED_ID.",
+  "issueId": 330,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/330",
+  "originalIssueId": 377,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/377"
+}
