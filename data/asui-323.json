@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "asui",
+  "risk": "3",
+  "title": "Protocol swap fees accidentally sent to lender instead of the protocol due to wrong fees calculation in SellCreditMarket.",
+  "issueId": 323,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/323",
+  "originalIssueId": 404,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/404"
+}
