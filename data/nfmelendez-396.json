@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "nfmelendez",
+  "risk": "3",
+  "title": "Incorrect calculation of the cap on the liquidation reward leads to loss of funds",
+  "issueId": 396,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/396",
+  "originalIssueId": 141,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/141"
+}
