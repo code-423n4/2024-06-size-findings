@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "BenRai",
+  "risk": "2",
+  "title": "When liquidateWithReplacement is called, the new borrower does not pay the swapFee ",
+  "issueId": 364,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/364",
+  "originalIssueId": 281,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/281"
+}
