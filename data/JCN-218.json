@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "JCN",
+  "risk": "3",
+  "title": "Size uses wrong source to query available liquidity on Aave, resulting in borrow and lend operations being bricked upon mainnet deployment",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/218",
+  "originalIssueId": 196,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/196"
+}
