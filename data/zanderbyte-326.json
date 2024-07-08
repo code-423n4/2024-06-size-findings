@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "zanderbyte",
+  "risk": "3",
+  "title": "Liquidator reward is incorrectly calculated during liquidation",
+  "issueId": 326,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/326",
+  "originalIssueId": 391,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/391"
+}
