@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "evmboi32",
+  "risk": "2",
+  "title": "Liquidators can prevent users from making their positions healthy during an unpause.",
+  "issueId": 265,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/265",
+  "originalIssueId": 576,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/576"
+}
