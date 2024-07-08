@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "grearlake",
+  "risk": "3",
+  "title": "Wrong liquidity checking lead to token being stuck",
+  "issueId": 281,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/281",
+  "originalIssueId": 551,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/551"
+}
