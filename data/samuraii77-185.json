@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "samuraii77",
+  "risk": "2",
+  "title": "The `borrowATokenCap` will be reached earlier than expected",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/185",
+  "originalIssueId": 523,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/523"
+}
