@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "zzebra83",
+  "risk": "3",
+  "title": "Partial repayment not possible if user is underwater",
+  "issueId": 292,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/292",
+  "originalIssueId": 517,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/517"
+}
