@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "m4k2",
+  "risk": "2",
+  "title": "Aave Yield on Lender Credit Repayment Vulnerable to Griefing",
+  "issueId": 297,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/297",
+  "originalIssueId": 494,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/494"
+}
