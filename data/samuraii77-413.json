@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "samuraii77",
+  "risk": "3",
+  "title": "The total supply of borrowAToken can go over the specified cap",
+  "issueId": 413,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/413",
+  "originalIssueId": 37,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/37"
+}
