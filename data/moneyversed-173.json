@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "moneyversed",
+  "risk": "3",
+  "title": "Inadequate liquidation profit calculation on `validateMinimumCollateralProfit` due to omission of protocol fee",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/173",
+  "originalIssueId": 703,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/703"
+}
