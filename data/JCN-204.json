@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "JCN",
+  "risk": "3",
+  "title": "Size overcharges lender and overpays borrower during `sellCreditMarket` calls",
+  "issueId": 204,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/204",
+  "originalIssueId": 337,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/337"
+}
