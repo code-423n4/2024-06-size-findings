@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "zarkk01",
+  "risk": "2",
+  "title": "Credit positions with cash less than ```minimumCreditBorrowAToken``` and credit more than ```minimumCreditBorrowAToken``` will not be created while they should",
+  "issueId": 254,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/254",
+  "originalIssueId": 599,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/599"
+}
