@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "BenRai",
+  "risk": "3",
+  "title": "Because of a decimal issue, the liquidator gets next to nothing as a liquidation rewards when liquidating a borrow position",
+  "issueId": 393,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/393",
+  "originalIssueId": 159,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/159"
+}
