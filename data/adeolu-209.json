@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "adeolu",
+  "risk": "2",
+  "title": "Inadequate checks to confirm the correct status of the sequecnce/sequecncerUptimeFeed in `PriceFeed.getPrice()` contract. ",
+  "issueId": 209,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/209",
+  "originalIssueId": 303,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/303"
+}
