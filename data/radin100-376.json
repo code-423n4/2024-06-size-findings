@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "radin100",
+  "risk": "3",
+  "title": "Liquidator would never see intended profit from liquidations, due to bad liquidatorReward calculation",
+  "issueId": 376,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/376",
+  "originalIssueId": 229,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/229"
+}
