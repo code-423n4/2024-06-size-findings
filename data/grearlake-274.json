@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "grearlake",
+  "risk": "2",
+  "title": "`validateVariablePoolHasEnoughLiquidity`'s checking condition can be bypassed.",
+  "issueId": 274,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/274",
+  "originalIssueId": 561,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/561"
+}
