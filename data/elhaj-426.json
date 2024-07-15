@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "elhaj",
+  "risk": "3",
+  "title": "Borrow Token Withdrawals Blocked Due to Incorrect Opening Collateral Ratio Check",
+  "issueId": 426,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/426",
+  "originalIssueId": 631,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/631"
+}
