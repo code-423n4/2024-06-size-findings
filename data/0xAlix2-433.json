@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "Invalid CR validation in `Size::withdraw`, blocking liquidatable users from withdrawing their borrow tokens",
+  "issueId": 433,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/433",
+  "originalIssueId": 88,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/88"
+}
