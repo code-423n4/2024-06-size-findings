@@ -1,0 +1,10 @@
+{
+  "contest": 389,
+  "handle": "ayden",
+  "risk": "2",
+  "title": "The validateUserIsNotBelowOpeningLimitBorrowCR in withdraw can lead to DOS",
+  "issueId": 429,
+  "issueUrl": "https://github.com/code-423n4/2024-06-size-findings/issues/429",
+  "originalIssueId": 248,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-size-validation/issues/248"
+}
